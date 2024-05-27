@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'tailwindcss/tailwind.css';
+
+.App {
+  text-align: center;
+}
+
+
+.home-page {
+  background-color: theme('colors.gray.800') !important;
+}
